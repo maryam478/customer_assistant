@@ -1,0 +1,1 @@
+# class with different prompts, so u can use diferent prompts
