@@ -1,10 +1,10 @@
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 import nltk
-nltk.download('punkt')
 from nltk.tokenize import sent_tokenize
 
 
 class Chunker():
+    nltk.download('punkt')
     def fixed_size(self, text, chunk_size=500, overlap=50):
         return [text[i:i+chunk_size] for i in range(0, len(text), chunk_size - overlap)]
 
