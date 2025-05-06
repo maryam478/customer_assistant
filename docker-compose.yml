@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  tesla_chatbot:
+    build: .
+    ports:
+      - "8501:8501"  # Expose Streamlit on localhost:8501
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+      # - ./src/Owners_Manual.pdf:/app/Owners_Manual.pdf  # mount PDF at expected path
+    restart: always
+
+

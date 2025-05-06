@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+*.pkl
+*.faiss
+vector_store/
+src/vector_store/
+*.pdf
+.git
+.gitignore
+README.md
