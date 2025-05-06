@@ -1,6 +1,7 @@
 from langchain_community.document_loaders import PyMuPDFLoader
-# class-2 functions=> emedding the docs(text chunks
-#  2nd function will embed the query)
+
+
+
 def load_pdf_text(pdf_path):
     loader = PyMuPDFLoader("Owners_Manual.pdf")
     pages = loader.load()
