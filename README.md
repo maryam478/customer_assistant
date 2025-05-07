@@ -43,7 +43,7 @@ langchain.prompts
 ->Clone the Repository
 
 
-got clone https://github.com/maryam478/customer_assistant.git
+git clone https://github.com/maryam478/customer_assistant.git
 cd customer_assistant
 
 ->Add Tesla Owner's Manual PDF
@@ -85,6 +85,7 @@ customer_assistant/
 │   │   ├── chunker.py       # PDF chunking logic
 │   │   ├── embedding.py     # Load and embed text
 │   │   ├── vector_store.py  # FAISS store + chain builder
+|   |   |-- prompt.py        # Prompt
 │   ├── vector_store/        # Saves FAISS index and metadata
 │
 ├── .env                     # Stores API keys
