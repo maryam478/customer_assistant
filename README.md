@@ -41,7 +41,8 @@ langchain_huggingface
 🔧 Setup
 ->Clone the Repository
 
-git clone https://github.com/your-username/customer_assistant.git
+
+got clone https://github.com/maryam478/customer_assistant.git
 cd customer_assistant
 
 ->Add Tesla Owner's Manual PDF
