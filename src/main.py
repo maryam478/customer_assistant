@@ -5,7 +5,7 @@ from utils.vector_store import create_vector_store, build_qa_chain
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 
-def get_qa_chain(pdf_path="Owners_Manual.pdf"):
+def get_qa_chain(pdf_path='src/Owners_Manual.pdf'):
     store_path = "./vector_store/faiss_store"
     index_file = os.path.join(store_path, "index.faiss")
     metadata_file = os.path.join(store_path, "index.pkl")

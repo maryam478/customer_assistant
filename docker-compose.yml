@@ -1,7 +1,7 @@
 version: '3.8'
 
 services:
-  tesla_chatbot:
+  main:
     build: .
     ports:
       - "8501:8501"  # Expose Streamlit on localhost:8501
