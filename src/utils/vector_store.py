@@ -3,6 +3,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_openai import ChatOpenAI
 from langchain.docstore.document import Document
+from utils.prompt import custom_prompt
 import os
 from dotenv import load_dotenv
 
@@ -25,5 +26,8 @@ def build_qa_chain(vectorstore):
     temperature=0,
     openai_api_key=API_KEY
     ),
-        retriever=retriever
+        retriever=retriever,
+        chain_type="stuff",  # you can also experiment with 'map_reduce'
+        chain_type_kwargs={"prompt": custom_prompt},
+        return_source_documents=False
     )
