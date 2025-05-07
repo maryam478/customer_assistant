@@ -36,6 +36,7 @@ langchain_openai
 pymupdf
 streamlit
 langchain_huggingface
+langchain.prompts
 
 
 🔧 Setup
