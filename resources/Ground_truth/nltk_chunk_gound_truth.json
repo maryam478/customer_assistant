@@ -1,0 +1,304 @@
+{
+    "queries": [
+      {
+        "query_text": "What are the safety features of Tesla Model Y?",
+        "relevant_chunks": [
+          "MODEL Y 2025+ OWNER'S MANUAL Software version: 2025.8 North America YOUR OWNER'S MANUAL For the latest and greatest information that is customized to your vehicle, view the Owner’s Manual on your vehicle’s touchscreen  by touching the app launcher and then selecting the Manual app. The information is specific to your vehicle depending on the  features you purchased, vehicle configuration, market region, and software version. In contrast, owner information that is provided  by Tesla elsewhere is updated as necessary and may not contain information unique to your vehicle.",
+          "RELEASE NOTES Information about new features is displayed on the touchscreen after a software update, and can be viewed at any time by  choosing the Release Notes tab in the Manual app, or by touching Controls > Software > Release Notes. If the content in the  Owner's Manual on how to use your vehicle conflicts with information in the Release Notes, the Release Notes take precedence. ILLUSTRATIONS AND PRODUCT SPECIFICATIONS The illustrations provided in this document are for demonstration purposes only.",
+          "Depending on vehicle options, software version  and market region, the information displayed on the touchscreen in your vehicle may appear slightly different. All specifications and descriptions contained in this document are verified to be accurate at the time of printing. However, because  continuous improvement is a goal at Tesla, we reserve the right to make product modifications at any time.",
+          "To communicate any  inaccuracies or omissions in this document, please send an email to: ownersmanualfeedback@tesla.com. SAFETY INFORMATION You can find safety information in your Model Y Owner's Manual on the touchscreen. For detailed information about your Model Y, go to the Tesla website for your region, log on to your Tesla account, or sign up to get  an account.",
+          "If you have any query_texts or concerns about your Model Y, call 1-877-79TESLA (1-877-798-3752). © 2012-2025 TESLA, INC. All information in this document and all vehicle software is subject to copyright and other intellectual property rights of Tesla, Inc.  and its licensors. This material may not be modified, reproduced or copied, in whole or in part, without the prior written permission  of Tesla, Inc. and its licensors."
+        ]
+      },
+      {
+        "query_text": "How do I maintain my Tesla Model Y?",
+        "relevant_chunks": [
+          "Additional information is available upon request. Shown here are trademarks or registered  trademarks of Tesla, Inc. in the United States and other countries: Overview.......................................................3 Exterior................................................................................. 3 Interior..................................................................................4 Touchscreen......................................................................... 6 Interior Electronics............................................................... 11 Car Status........................................................................... 14 Voice Commands................................................................ 18 Cameras............................................................................. 20 Opening and Closing.................................. 22 Keys....................................................................................22 Doors.................................................................................. 27 Windows.............................................................................29 Storage Areas.............................................30 Rear Trunk.......................................................................... 30 Front Trunk......................................................................... 32 Interior Storage...................................................................34 Seating and Safety Restraints..................... 36 Front and Rear Seats...........................................................36 Seat Belts........................................................................... 40 Child Safety Seats.............................................................. 43 Airbags............................................................................... 49 Connectivity............................................... 55 Mobile App......................................................................... 55 Wi-Fi...................................................................................58 Bluetooth............................................................................59 Phone, Calendar, and Web Conferencing.............................61 Smart Garage......................................................................63 Driving........................................................66 Starting and Powering Off.................................................. 66 Steering Wheel................................................................... 68 Mirrors...................................................................................72 Shifting............................................................................... 74 Lights..................................................................................77 Wipers and Washers...........................................................80 Braking and Stopping.......................................................... 81 Park Assist..........................................................................85 Vehicle Hold........................................................................87 Traction Control..................................................................88 Acceleration Modes............................................................89 Driver Profiles.....................................................................90 Trip Information.................................................................. 92 Rear Facing Camera(s)........................................................93 Pedestrian Warning System................................................ 94 Towing and Accessories..................................................... 95 Autopilot....................................................101 About Autopilot................................................................. 101 Autopilot Features.............................................................104 Traffic Light and Stop Sign Control.................................... 113 Full Self-Driving (Supervised)............................................120 Autopark............................................................................124 Summon............................................................................ 126 Limitations and Warnings.................................................. 130 Active Safety Features...............................134 Lane Assist........................................................................134 Collision Avoidance Assist.................................................137 Speed Assist...................................................................... 141 Cabin Camera....................................................................142 Cabin Radar.......................................................................143 Dashcam, Sentry, and Security.................. 144 Safety & Security Settings.................................................144 Dashcam........................................................................... 146 Sentry Mode......................................................................148 USB Drive Requirements for Recording Videos................. 150 Climate.......................................................151 Operating Climate Controls................................................151 Adjusting the Front and Rear Vents................................... 156 Cold Weather Best Practices.............................................158 Hot Weather Best Practices............................................... 161 Navigation and Entertainment....................162 Maps and Navigation......................................................... 162 Media................................................................................ 168 Theater, Arcade, and Toybox............................................. 170 Charging and Energy Consumption........... 173 Electric Vehicle Components.............................................173 High Voltage Battery Information.......................................175 Charging Instructions........................................................ 177 Scheduled Precondition and Charge................................. 183 Getting Maximum Range................................................... 185 High Voltage Battery Health.............................................. 187 Maintenance..............................................188 Software Updates..............................................................188 Maintenance Service Intervals...........................................189 Tire Care and Maintenance.................................................191 Cleaning............................................................................ 197 Windshield Wiper Blades, Jets and Fluid............................201 Jacking and Lifting............................................................203 Parts and Accessories...................................................... 204 Temporary Tire Repair Kit................................................. 207 Do It Yourself Maintenance...............................................209 Specifications............................................210 Identification Labels.......................................................... 210 Vehicle Loading..................................................................211 Dimensions........................................................................213 Contents Subsystems.......................................................................215 Wheels and Tires............................................................... 217 Instructions for Transporters.................... 224 Instructions for Transporters............................................ 224 In Case of Emergency............................... 228 Contacting Tesla Roadside Assistance..............................228 Running Out of Range.......................................................229 Opening the Hood with No Power.....................................230 Jump Starting....................................................................232 Opening Doors with No Power..........................................234 Submerged Vehicle Guidance...........................................235 Troubleshooting........................................236 Troubleshooting Alerts..................................................... 236 Consumer Information.............................. 292 About this Owner Information...........................................292 Feature Availability Statement.......................................... 293 Disclaimers.......................................................................294 Reporting Safety Defects................................................. 296 Certification Conformity................................................... 297 Index........................................................ 299 Contents 1. Wheels and tires (Wheels and Tires on page 217) 2.",
+          "Exterior mirrors (Mirrors on page 72) 3. Door handle (Using Exterior Door Handles on page 27) 4. Key card sensor (Keys on page 22), Autopilot camera (Cameras on page 20) 5.",
+          "Charge port (Charging Instructions on page 177) 6. Headlights (Lights on page 77) 7. Front lightbar (Lights on page 77) 8.",
+          "Front tow eye cover (Instructions for Transporters on page 224) 9. Hood/front trunk (Front Trunk on page 32) 10. Rear trunk (Rear Trunk on page 30) 11.",
+          "Rear view camera (Rear Facing Camera(s) on page 93) 12. Tow hitch cover 13. Rear tow eye cover (Instructions for Transporters on page 224) For Autopilot camera locations, see Cameras on page 20."
+        ]
+      },
+      {
+        "query_text": "How do I use the infotainment system in Tesla Model Y?",
+        "relevant_chunks": [
+          "WARNING: Always pay attention to road and traffic conditions when driving. To minimize driver distraction and ensure  the safety of vehicle occupants as well as other road users, avoid using the touchscreen to adjust settings while the  vehicle is in motion. Use the touchscreen to control many features that, in traditional cars, are controlled using physical buttons (for example,  adjusting the cabin heating and air conditioning, headlights, etc.).",
+          "You also use the touchscreen to control media, navigate,  use entertainment features, and customize Model Y to suit your preferences. For hands-free access to common touchscreen  controls, use voice commands (see Voice Commands on page 18). If the touchscreen is unresponsive or demonstrates unusual behavior, you can restart it (see Restarting the Touchscreen on  page 9).",
+          "CAUTION: Do not apply a screen protector on the touchscreen. Doing so can result in unintended inputs to the  touchscreen (phantom inputs), delayed response or unresponsiveness to touches, electrostatic discharge which can  damage the touchscreen, etc. Any damage caused by installing a screen protector is not covered by the warranty.",
+          "NOTE: Illustrations are provided to improve conceptual understanding only. Depending on vehicle options, software version,  market region and regional and language settings, the details displayed on the screen will differ. 1.",
+          "Status bar: Find car controls and status in the top bar (see Top Status Bar Icons on page 8). 2. Navigation: Change the orientation of the map, find or navigate to a destination, and change navigation settings (see Maps  and Navigation on page 162)."
+        ]
+      },
+      {
+        "query_text": "What should I do in case of an emergency with my Tesla Model Y?",
+        "relevant_chunks": [
+          "Touchscreen 6 MODEL Y Owner's Manual 3. Car status: This area dynamically displays the current status of Model Y as you drive, park, open doors, turn lights on, etc. Monitor this area when driving as it displays important information such as driving speed and warning messages (see Car  Status on page 14).",
+          "When the vehicle is in Park, you can open the trunks or charge port door. This area also houses  shortcut \"cards\" for Media, tire pressures, and Trip Information. When Full Self-Driving (Supervised) is enabled (if equipped), the car status area displays visualizations of the road and  your vehicle's surroundings.",
+          "You can expand/condense the visualization by dragging the car status area from side to side. Expanding the visualization displays more details about the roadway and its surroundings, including road markings, stop  lights, and objects (such as trash cans and poles). 4.",
+          "Drive mode strip: Use to shift into Park, Reverse, Neutral, or Drive. Swipe from the edge of the touchscreen towards the  passenger, to bring up the drive mode strip. (See Shifting on page 74.)",
+          "5. Controls: Control various features and customize Model Y to suit your preferences. The Controls screen appears over the  map.",
+          "Touch an option on the Controls screen to display the various settings and preferences associated with the chosen  option. To search for a specific setting, touch Search at the top of the Controls screen. Make changes directly from the result or  touch the link to jump to that option in Controls."
+        ]
+      },
+      
+      
+   {
+      "query_text": "What are the safety features of Tesla Model Y?",
+      "relevant_chunks": [
+        "This  can prevent connected devices from charging or from being  recognized by Media Player, Sentry Mode, Dashcam, etc. Wireless Phone Chargers Wireless phone chargers are integrated into the front  console, providing up to 15W of power to charge Qi-enabled  phones. To charge your phone, place it on one of the two  charge pads.",
+        "The phone must be in direct contact with the  wireless charger. Your device may feel warm while charging,  but this is a normal effect of inductive charging. Interior Electronics 11 Overview CAUTION: Before you charge, remove any objects  (coins, keys, metal objects, etc.)",
+        "between the phone  and charger, as well as any NFC cards (for example, the  vehicle key card, credit cards, or hotel key) placed on  or behind the phone (like with integrated phone cases). Damage to NFC cards can occur when you charge the  phone without first removing the card. When placed on the wireless charger, your phone charges  whenever the vehicle is powered on (the touchscreen is on  and you are in the vehicle).",
+        "Your phone does not charge when  you leave the vehicle unless a feature, such as Keep Climate  On, Dog Mode, Camp Mode, or Sentry Mode is enabled. NOTE: The wireless phone charger may not work if your  phone case is too thick or is made of metal. Try removing the  phone from its case before placing it on the charger.",
+        "NOTE: The wireless phone charger does not charge if the  vehicle's high voltage Battery is discharged. Accessory Power Power is available when the vehicle is in use or detects that a  user is present. A user is considered present when a person  is in the driver's seat, interacts with the touchscreen, or when  in Camp.",
+        "Leaving an accessory plugged in does not deplete  the low voltage battery. If you want to continue powering or charging your devices  without a user present in the vehicle, enable Keep Accessory  Power On by touching Controls > Charging > Keep Accessory  Power On. This is only available while the Battery is over  20%."
+      ]
+    },
+    {
+      "query_text": "How do I maintain my Tesla Model Y?",
+      "relevant_chunks": [
+        "NOTE: Enabling Keep Accessory Power On increases the  amount of power used by the vehicle even if the vehicle is not  powering or charging a device. Low Voltage Power Outlet Your Model Y has a power outlet located in the center  console's compartment, as well as in the trunk. To access the  low voltage outlet, open the front compartment of the center  console.",
+        "An additional low voltage power outlet is located on the left  side of the rear trunk. The power outlet is suitable for accessories requiring up to  12A continuous draw (16A peak). Interior Electronics 12 MODEL Y Owner's Manual WARNING: The power outlet and an accessory’s  connector can become hot.",
+        "WARNING: To prevent excessive interference with the  vehicle’s electronics, Tesla recommends that you do  not plug any non-Tesla accessories, including power  inverters, into the low voltage power outlet. However, if  you do use a non-Tesla accessory and notice any  malfunctions or unexpected behavior, such as indicator  lights, alert messages, or excessive heat from the  accessory, unplug the accessory from the low voltage  power outlet immediately. CAUTION: Do not attempt to jump start Model Y using  the low voltage power outlet.",
+        "Doing so can result in  damage. Interior Electronics 13 Overview Overview The touchscreen displays the status of Model Y at all times. What you see depends on whether the vehicle is: • Parked (shown below).",
+        "• Driving (see Driving Status on page 16). • Charging (see Charging Status on page 178). When Model Y is parked, the status area shows the drive  mode, estimated range, and an overhead view of the car with  buttons you can touch to open the trunks and charge port  door.",
+        "When you press the brake, Model Y powers up and  indicator lights flash briefly. Unless an indicator light applies  to the current situation (for example, a seat belt is not  fastened), it should turn off. If an indicator light fails to turn  on or off, contact Tesla."
+      ]
+    },
+    {
+      "query_text": "What are the specifications of Tesla Model Y?",
+      "relevant_chunks": [
+        "NOTE: The following image is provided for demonstration  purposes only. Depending on vehicle options, software  version, and market region, the information displayed may be  slightly different. Cards The bottom of the car status display also shows shortcut  \"cards\" for quick access to Media, tire pressure data, trip  information, and more.",
+        "Swipe the cards to the left or right to  customize your cards shortcuts. Indicator Lights The following indicator lights illuminate to advise you or alert  you of a specific status or condition. USA:  If the touchscreen displays this red brake  indicator at any time other than briefly  when you first start Model Y, a brake  system fault is detected, or the level of the  brake fluid is low.",
+        "Contact Tesla  immediately. Apply steady pressure and  keep the brake pedal firmly pressed to stop  the vehicle when safe to do so. Canada:  If the touchscreen displays this red brake  indicator at any time other than briefly  when you first start Model Y, a brake  system fault is detected, or the level of the  brake fluid is low.",
+        "Contact Tesla  immediately. Apply steady pressure and  keep the brake pedal firmly pressed to stop  the vehicle when safe to do so. USA:  The touchscreen displays this amber brake  indicator if a brake booster fault is  detected.",
+        "Apply steady pressure and keep  the brake pedal firmly pressed to stop the  vehicle when safe to do so. Hydraulic  Boost Compensation will be active (see  Braking and Stopping on page 81). Canada:  The touchscreen displays this amber brake  indicator if a brake booster fault is  detected."
+      ]
+    },
+    {
+      "query_text": "How do I use the infotainment system in Tesla Model Y?",
+      "relevant_chunks": [
+        "Apply steady pressure and keep  the brake pedal firmly pressed to stop the  vehicle when safe to do so. Hydraulic  Boost Compensation will be active (see  Braking and Stopping on page 81). USA:  The ABS indicator briefly flashes amber on  the touchscreen when you first start Model  Y.",
+        "If this indicator lights up at any other  time, an ABS fault has occurred and the  ABS is not operating. Contact Tesla. The  braking system remains fully operational  and is not affected by an ABS failure.",
+        "However, braking distances may increase. Drive cautiously and avoid heavy braking. Canada:  The ABS indicator briefly flashes amber on  the touchscreen when you first start Model  Y.",
+        "If this indicator lights up at any other  time, an ABS fault has occurred and the  ABS is not operating. Contact Tesla. The  braking system remains fully operational  Car Status 14 MODEL Y Owner's Manual and is not affected by an ABS failure.",
+        "However, braking distances may increase. Drive cautiously and avoid heavy braking. USA:  The ABS indicator may appear green on the  touchscreen when the vehicle's anti-lock  braking system is activated.",
+        "The vehicle is at  maximum possible deceleration. Canada:  The ABS indicator may appear green on the  touchscreen when the vehicle's anti-lock  braking system is activated. The vehicle is at  maximum possible deceleration."
+      ]
+    },
+    {
+      "query_text": "What should I do in case of an emergency with my Tesla Model Y?",
+      "relevant_chunks": [
+        "USA:  When you manually apply the parking  brake using the touchscreen, the red  parking brake indicator lights up on the  touchscreen. Canada:  When you manually apply the parking  brake using the touchscreen, the red  parking brake indicator lights up on the  touchscreen. USA:  If the parking brake experiences an  electrical issue, the amber parking brake  indicator lights up and a fault message  displays on the touchscreen.",
+        "Canada:  If the parking brake experiences an  electrical issue, the amber parking brake  indicator lights up and a fault  message displays on the touchscreen. NOTE: Depending on location of manufacture, vehicles in  Mexico may show either the text or icon of the brake, ABS,  and park indicator lights. Tire pressure warning.",
+        "The pressure of a  tire is out of range. If a fault with the Tire  Pressure Monitoring System (TPMS) is  detected, the indicator flashes. For a  TPMS fault, contact Tesla.",
+        "See Tire Care  and Maintenance on page 191. A seat belt for an occupied seat is not  fastened. See Seat Belts on page 40.",
+        "Airbag safety. If this indicator does not  flash on briefly when Model Y prepares to  drive, or if it remains on, contact Tesla  immediately. See .",
+        "Parking lights are on (side marker lights,  tail lights, and license plate lights) . See  Lights on page 77. Low beam headlights are on."
+      ]
+    },
+    {
+      "query_text": "What are the safety features of Tesla Model Y?",
+      "relevant_chunks": [
+        "This  can prevent connected devices from charging or from being  recognized by Media Player, Sentry Mode, Dashcam, etc. Wireless Phone Chargers Wireless phone chargers are integrated into the front  console, providing up to 15W of power to charge Qi-enabled  phones. To charge your phone, place it on one of the two  charge pads.",
+        "The phone must be in direct contact with the  wireless charger. Your device may feel warm while charging,  but this is a normal effect of inductive charging. Interior Electronics 11 Overview CAUTION: Before you charge, remove any objects  (coins, keys, metal objects, etc.)",
+        "between the phone  and charger, as well as any NFC cards (for example, the  vehicle key card, credit cards, or hotel key) placed on  or behind the phone (like with integrated phone cases). Damage to NFC cards can occur when you charge the  phone without first removing the card. When placed on the wireless charger, your phone charges  whenever the vehicle is powered on (the touchscreen is on  and you are in the vehicle).",
+        "Your phone does not charge when  you leave the vehicle unless a feature, such as Keep Climate  On, Dog Mode, Camp Mode, or Sentry Mode is enabled. NOTE: The wireless phone charger may not work if your  phone case is too thick or is made of metal. Try removing the  phone from its case before placing it on the charger.",
+        "NOTE: The wireless phone charger does not charge if the  vehicle's high voltage Battery is discharged. Accessory Power Power is available when the vehicle is in use or detects that a  user is present. A user is considered present when a person  is in the driver's seat, interacts with the touchscreen, or when  in Camp."
+      ]
+    },
+    {
+      "query_text": "How do I maintain my Tesla Model Y?",
+      "relevant_chunks": [
+        "Leaving an accessory plugged in does not deplete  the low voltage battery. If you want to continue powering or charging your devices  without a user present in the vehicle, enable Keep Accessory  Power On by touching Controls > Charging > Keep Accessory  Power On. This is only available while the Battery is over  20%.",
+        "NOTE: Enabling Keep Accessory Power On increases the  amount of power used by the vehicle even if the vehicle is not  powering or charging a device. Low Voltage Power Outlet Your Model Y has a power outlet located in the center  console's compartment, as well as in the trunk. To access the  low voltage outlet, open the front compartment of the center  console.",
+        "An additional low voltage power outlet is located on the left  side of the rear trunk. The power outlet is suitable for accessories requiring up to  12A continuous draw (16A peak). Interior Electronics 12 MODEL Y Owner's Manual WARNING: The power outlet and an accessory’s  connector can become hot.",
+        "WARNING: To prevent excessive interference with the  vehicle’s electronics, Tesla recommends that you do  not plug any non-Tesla accessories, including power  inverters, into the low voltage power outlet. However, if  you do use a non-Tesla accessory and notice any  malfunctions or unexpected behavior, such as indicator  lights, alert messages, or excessive heat from the  accessory, unplug the accessory from the low voltage  power outlet immediately. CAUTION: Do not attempt to jump start Model Y using  the low voltage power outlet.",
+        "Doing so can result in  damage. Interior Electronics 13 Overview Overview The touchscreen displays the status of Model Y at all times. What you see depends on whether the vehicle is: • Parked (shown below)."
+      ]
+    },
+    {
+      "query_text": "What are the specifications of Tesla Model Y?",
+      "relevant_chunks": [
+        "• Driving (see Driving Status on page 16). • Charging (see Charging Status on page 178). When Model Y is parked, the status area shows the drive  mode, estimated range, and an overhead view of the car with  buttons you can touch to open the trunks and charge port  door.",
+        "When you press the brake, Model Y powers up and  indicator lights flash briefly. Unless an indicator light applies  to the current situation (for example, a seat belt is not  fastened), it should turn off. If an indicator light fails to turn  on or off, contact Tesla.",
+        "NOTE: The following image is provided for demonstration  purposes only. Depending on vehicle options, software  version, and market region, the information displayed may be  slightly different. Cards The bottom of the car status display also shows shortcut  \"cards\" for quick access to Media, tire pressure data, trip  information, and more.",
+        "Swipe the cards to the left or right to  customize your cards shortcuts. Indicator Lights The following indicator lights illuminate to advise you or alert  you of a specific status or condition. USA:  If the touchscreen displays this red brake  indicator at any time other than briefly  when you first start Model Y, a brake  system fault is detected, or the level of the  brake fluid is low.",
+        "Contact Tesla  immediately. Apply steady pressure and  keep the brake pedal firmly pressed to stop  the vehicle when safe to do so. Canada:  If the touchscreen displays this red brake  indicator at any time other than briefly  when you first start Model Y, a brake  system fault is detected, or the level of the  brake fluid is low."
+      ]
+    },
+    {
+      "query_text": "How do I use the infotainment system in Tesla Model Y?",
+      "relevant_chunks": [
+        "Contact Tesla  immediately. Apply steady pressure and  keep the brake pedal firmly pressed to stop  the vehicle when safe to do so. Canada:  If the touchscreen displays this red brake  indicator at any time other than briefly  when you first start Model Y, a brake  system fault is detected, or the level of the  brake fluid is low.",
+        "Contact Tesla  immediately. Apply steady pressure and  keep the brake pedal firmly pressed to stop  the vehicle when safe to do so. USA:  The touchscreen displays this amber brake  indicator if a brake booster fault is  detected.",
+        "Apply steady pressure and keep  the brake pedal firmly pressed to stop the  vehicle when safe to do so. Hydraulic  Boost Compensation will be active (see  Braking and Stopping on page 81). Canada:  The touchscreen displays this amber brake  indicator if a brake booster fault is  detected.",
+        "Apply steady pressure and keep  the brake pedal firmly pressed to stop the  vehicle when safe to do so. Hydraulic  Boost Compensation will be active (see  Braking and Stopping on page 81). USA:  The ABS indicator briefly flashes amber on  the touchscreen when you first start Model  Y.",
+        "If this indicator lights up at any other  time, an ABS fault has occurred and the  ABS is not operating. Contact Tesla. The  braking system remains fully operational  and is not affected by an ABS failure."
+      ]
+    },
+    {
+      "query_text": "What should I do in case of an emergency with my Tesla Model Y?",
+      "relevant_chunks": [
+        "However, braking distances may increase. Drive cautiously and avoid heavy braking. Canada:  The ABS indicator briefly flashes amber on  the touchscreen when you first start Model  Y.",
+        "If this indicator lights up at any other  time, an ABS fault has occurred and the  ABS is not operating. Contact Tesla. The  braking system remains fully operational  Car Status 14 MODEL Y Owner's Manual and is not affected by an ABS failure.",
+        "However, braking distances may increase. Drive cautiously and avoid heavy braking. USA:  The ABS indicator may appear green on the  touchscreen when the vehicle's anti-lock  braking system is activated.",
+        "The vehicle is at  maximum possible deceleration. Canada:  The ABS indicator may appear green on the  touchscreen when the vehicle's anti-lock  braking system is activated. The vehicle is at  maximum possible deceleration.",
+        "USA:  When you manually apply the parking  brake using the touchscreen, the red  parking brake indicator lights up on the  touchscreen. Canada:  When you manually apply the parking  brake using the touchscreen, the red  parking brake indicator lights up on the  touchscreen. USA:  If the parking brake experiences an  electrical issue, the amber parking brake  indicator lights up and a fault message  displays on the touchscreen."
+      ]
+    }, {
+        "query_text": "What are the safety features of Tesla Model Y?",
+        "relevant_chunks": [
+          "This  can prevent connected devices from charging or from being  recognized by Media Player, Sentry Mode, Dashcam, etc. Wireless Phone Chargers Wireless phone chargers are integrated into the front  console, providing up to 15W of power to charge Qi-enabled  phones. To charge your phone, place it on one of the two  charge pads.",
+          "The phone must be in direct contact with the  wireless charger. Your device may feel warm while charging,  but this is a normal effect of inductive charging. Interior Electronics 11 Overview CAUTION: Before you charge, remove any objects  (coins, keys, metal objects, etc.)",
+          "between the phone  and charger, as well as any NFC cards (for example, the  vehicle key card, credit cards, or hotel key) placed on  or behind the phone (like with integrated phone cases). Damage to NFC cards can occur when you charge the  phone without first removing the card. When placed on the wireless charger, your phone charges  whenever the vehicle is powered on (the touchscreen is on  and you are in the vehicle).",
+          "Your phone does not charge when  you leave the vehicle unless a feature, such as Keep Climate  On, Dog Mode, Camp Mode, or Sentry Mode is enabled. NOTE: The wireless phone charger may not work if your  phone case is too thick or is made of metal. Try removing the  phone from its case before placing it on the charger.",
+          "NOTE: The wireless phone charger does not charge if the  vehicle's high voltage Battery is discharged. Accessory Power Power is available when the vehicle is in use or detects that a  user is present. A user is considered present when a person  is in the driver's seat, interacts with the touchscreen, or when  in Camp.",
+          "Leaving an accessory plugged in does not deplete  the low voltage battery. If you want to continue powering or charging your devices  without a user present in the vehicle, enable Keep Accessory  Power On by touching Controls > Charging > Keep Accessory  Power On. This is only available while the Battery is over  20%."
+        ]
+      },
+      {
+        "query_text": "How do I maintain my Tesla Model Y?",
+        "relevant_chunks": [
+          "NOTE: Enabling Keep Accessory Power On increases the  amount of power used by the vehicle even if the vehicle is not  powering or charging a device. Low Voltage Power Outlet Your Model Y has a power outlet located in the center  console's compartment, as well as in the trunk. To access the  low voltage outlet, open the front compartment of the center  console.",
+          "An additional low voltage power outlet is located on the left  side of the rear trunk. The power outlet is suitable for accessories requiring up to  12A continuous draw (16A peak). Interior Electronics 12 MODEL Y Owner's Manual WARNING: The power outlet and an accessory’s  connector can become hot.",
+          "WARNING: To prevent excessive interference with the  vehicle’s electronics, Tesla recommends that you do  not plug any non-Tesla accessories, including power  inverters, into the low voltage power outlet. However, if  you do use a non-Tesla accessory and notice any  malfunctions or unexpected behavior, such as indicator  lights, alert messages, or excessive heat from the  accessory, unplug the accessory from the low voltage  power outlet immediately. CAUTION: Do not attempt to jump start Model Y using  the low voltage power outlet.",
+          "Doing so can result in  damage. Interior Electronics 13 Overview Overview The touchscreen displays the status of Model Y at all times. What you see depends on whether the vehicle is: • Parked (shown below).",
+          "• Driving (see Driving Status on page 16). • Charging (see Charging Status on page 178). When Model Y is parked, the status area shows the drive  mode, estimated range, and an overhead view of the car with  buttons you can touch to open the trunks and charge port  door.",
+          "When you press the brake, Model Y powers up and  indicator lights flash briefly. Unless an indicator light applies  to the current situation (for example, a seat belt is not  fastened), it should turn off. If an indicator light fails to turn  on or off, contact Tesla."
+        ]
+      },
+      {
+        "query_text": "What are the specifications of Tesla Model Y?",
+        "relevant_chunks": [
+          "NOTE: The following image is provided for demonstration  purposes only. Depending on vehicle options, software  version, and market region, the information displayed may be  slightly different. Cards The bottom of the car status display also shows shortcut  \"cards\" for quick access to Media, tire pressure data, trip  information, and more.",
+          "Swipe the cards to the left or right to  customize your cards shortcuts. Indicator Lights The following indicator lights illuminate to advise you or alert  you of a specific status or condition. USA:  If the touchscreen displays this red brake  indicator at any time other than briefly  when you first start Model Y, a brake  system fault is detected, or the level of the  brake fluid is low.",
+          "Contact Tesla  immediately. Apply steady pressure and  keep the brake pedal firmly pressed to stop  the vehicle when safe to do so. Canada:  If the touchscreen displays this red brake  indicator at any time other than briefly  when you first start Model Y, a brake  system fault is detected, or the level of the  brake fluid is low.",
+          "Contact Tesla  immediately. Apply steady pressure and  keep the brake pedal firmly pressed to stop  the vehicle when safe to do so. USA:  The touchscreen displays this amber brake  indicator if a brake booster fault is  detected.",
+          "Apply steady pressure and keep  the brake pedal firmly pressed to stop the  vehicle when safe to do so. Hydraulic  Boost Compensation will be active (see  Braking and Stopping on page 81). Canada:  The touchscreen displays this amber brake  indicator if a brake booster fault is  detected."
+        ]
+      },
+      {
+        "query_text": "How do I use the infotainment system in Tesla Model Y?",
+        "relevant_chunks": [
+          "Apply steady pressure and keep  the brake pedal firmly pressed to stop the  vehicle when safe to do so. Hydraulic  Boost Compensation will be active (see  Braking and Stopping on page 81). USA:  The ABS indicator briefly flashes amber on  the touchscreen when you first start Model  Y.",
+          "If this indicator lights up at any other  time, an ABS fault has occurred and the  ABS is not operating. Contact Tesla. The  braking system remains fully operational  and is not affected by an ABS failure.",
+          "However, braking distances may increase. Drive cautiously and avoid heavy braking. Canada:  The ABS indicator briefly flashes amber on  the touchscreen when you first start Model  Y.",
+          "If this indicator lights up at any other  time, an ABS fault has occurred and the  ABS is not operating. Contact Tesla. The  braking system remains fully operational  Car Status 14 MODEL Y Owner's Manual and is not affected by an ABS failure.",
+          "However, braking distances may increase. Drive cautiously and avoid heavy braking. USA:  The ABS indicator may appear green on the  touchscreen when the vehicle's anti-lock  braking system is activated.",
+          "The vehicle is at  maximum possible deceleration. Canada:  The ABS indicator may appear green on the  touchscreen when the vehicle's anti-lock  braking system is activated. The vehicle is at  maximum possible deceleration."
+        ]
+      },
+      {
+        "query_text": "What should I do in case of an emergency with my Tesla Model Y?",
+        "relevant_chunks": [
+          "USA:  When you manually apply the parking  brake using the touchscreen, the red  parking brake indicator lights up on the  touchscreen. Canada:  When you manually apply the parking  brake using the touchscreen, the red  parking brake indicator lights up on the  touchscreen. USA:  If the parking brake experiences an  electrical issue, the amber parking brake  indicator lights up and a fault message  displays on the touchscreen.",
+          "Canada:  If the parking brake experiences an  electrical issue, the amber parking brake  indicator lights up and a fault  message displays on the touchscreen. NOTE: Depending on location of manufacture, vehicles in  Mexico may show either the text or icon of the brake, ABS,  and park indicator lights. Tire pressure warning.",
+          "The pressure of a  tire is out of range. If a fault with the Tire  Pressure Monitoring System (TPMS) is  detected, the indicator flashes. For a  TPMS fault, contact Tesla.",
+          "See Tire Care  and Maintenance on page 191. A seat belt for an occupied seat is not  fastened. See Seat Belts on page 40.",
+          "Airbag safety. If this indicator does not  flash on briefly when Model Y prepares to  drive, or if it remains on, contact Tesla  immediately. See .",
+          "Parking lights are on (side marker lights,  tail lights, and license plate lights) . See  Lights on page 77. Low beam headlights are on."
+        ]
+      },
+      {
+        "query_text": "What should you do if tires need to be replaced early?",
+        "relevant_chunks": [
+          "If tires need to be replaced early, for example due to a flat tire, we recommend replacing the tires in pairs unless the other tires are within 2/32 in. (1.5 mm) of tread depth of the new tire. When replacing tires, it is important to match the brand and model of the older tires.",
+          "Always place a pair of new tires on the rear if all four tires are the same size.",
+          "Always balance the wheel and tire after replacing a tire. Consult with a professional tire retailer and installer for further guidance.",
+          "If you replace your tires or install different ones, reset the tire configuration (see Tire Configuration on page 194). This resets the learned tire settings and improves the driving experience on your new tires.",
+          "Avoid hard accelerations during this period to avoid tire slip on the rim."
+        ]
+      },
+      {
+        "query_text": "Where should new tires be placed if all four tires are the same size?",
+        "relevant_chunks": [
+          "Always place a pair of new tires on the rear if all four tires are the same size.",
+          "If tires need to be replaced early, for example due to a flat tire, we recommend replacing the tires in pairs unless the other tires are within 2/32 in. (1.5 mm) of tread depth of the new tire. When replacing tires, it is important to match the brand and model of the older tires.",
+          "Always balance the wheel and tire after replacing a tire. Consult with a professional tire retailer and installer for further guidance.",
+          "If you replace your tires or install different ones, reset the tire configuration (see Tire Configuration on page 194). This resets the learned tire settings and improves the driving experience on your new tires.",
+          "Avoid hard accelerations during this period to avoid tire slip on the rim."
+        ]
+      },
+      {
+        "query_text": "What should you do after replacing a tire?",
+        "relevant_chunks": [
+          "Always balance the wheel and tire after replacing a tire. Consult with a professional tire retailer and installer for further guidance.",
+          "If tires need to be replaced early, for example due to a flat tire, we recommend replacing the tires in pairs unless the other tires are within 2/32 in. (1.5 mm) of tread depth of the new tire. When replacing tires, it is important to match the brand and model of the older tires.",
+          "Always place a pair of new tires on the rear if all four tires are the same size.",
+          "If you replace your tires or install different ones, reset the tire configuration (see Tire Configuration on page 194). This resets the learned tire settings and improves the driving experience on your new tires.",
+          "Avoid hard accelerations during this period to avoid tire slip on the rim."
+        ]
+      },
+      {
+        "query_text": "What should you do if you replace your tires or install different ones?",
+        "relevant_chunks": [
+          "If you replace your tires or install different ones, reset the tire configuration (see Tire Configuration on page 194). This resets the learned tire settings and improves the driving experience on your new tires.",
+          "If tires need to be replaced early, for example due to a flat tire, we recommend replacing the tires in pairs unless the other tires are within 2/32 in. (1.5 mm) of tread depth of the new tire. When replacing tires, it is important to match the brand and model of the older tires.",
+          "Always place a pair of new tires on the rear if all four tires are the same size.",
+          "Always balance the wheel and tire after replacing a tire. Consult with a professional tire retailer and installer for further guidance.",
+          "Avoid hard accelerations during this period to avoid tire slip on the rim."
+        ]
+      },
+      {
+        "query_text": "What should you avoid during the period after tire replacement or repair?",
+        "relevant_chunks": [
+          "Avoid hard accelerations during this period to avoid tire slip on the rim.",
+          "If tires need to be replaced early, for example due to a flat tire, we recommend replacing the tires in pairs unless the other tires are within 2/32 in. (1.5 mm) of tread depth of the new tire. When replacing tires, it is important to match the brand and model of the older tires.",
+          "Always place a pair of new tires on the rear if all four tires are the same size.",
+          "Always balance the wheel and tire after replacing a tire. Consult with a professional tire retailer and installer for further guidance.",
+          "If you replace your tires or install different ones, reset the tire configuration (see Tire Configuration on page 194). This resets the learned tire settings and improves the driving experience on your new tires."
+        ]
+      },{
+        "query_text": "What should you do if the vehicle begins charging after trying different equipment?",
+        "relevant_chunks": [
+          "• If the vehicle begins charging, the issue was likely with the equipment. • If the vehicle still does not charge, the issue may be with the vehicle. This alert is usually specific to external charging equipment and power sources and does not typically indicate an issue with your vehicle that can be resolved by scheduling service.",
+          "You can also try charging your vehicle using a Tesla Supercharger or Destination Charging location, all of which can be located through the map on your vehicle's touchscreen display. See Maps and Navigation on page 162 for more details. Additional third-party charging stations may also be available in your area to help you pinpoint the issue.",
+          "For more information on troubleshooting Mobile Connector or Wall Connector status lights, refer to the product's Owner's Manual at Charging & Adapter Product Guides. If using other external charging equipment, refer to the manufacturer's provided documentation for troubleshooting tips.",
+          "Inspect the external charging equipment and look for status lights, displays, or other status indicators on the equipment. Consult the equipment owner's manual for further troubleshooting instructions. Try charging the vehicle with different charging equipment or at a different charging station.",
+          "CP_a139 Charging equipment reports error Check equipment for error code or message What this alert means: Charging was interrupted because the external charging equipment has reported a fault that prevents the vehicle from charging."
+        ]
+      },
+      {
+        "query_text": "What should you do if the vehicle still does not charge after trying different equipment?",
+        "relevant_chunks": [
+          "• If the vehicle begins charging, the issue was likely with the equipment. • If the vehicle still does not charge, the issue may be with the vehicle. This alert is usually specific to external charging equipment and power sources and does not typically indicate an issue with your vehicle that can be resolved by scheduling service.",
+          "You can also try charging your vehicle using a Tesla Supercharger or Destination Charging location, all of which can be located through the map on your vehicle's touchscreen display. See Maps and Navigation on page 162 for more details. Additional third-party charging stations may also be available in your area to help you pinpoint the issue.",
+          "For more information on troubleshooting Mobile Connector or Wall Connector status lights, refer to the product's Owner's Manual at Charging & Adapter Product Guides. If using other external charging equipment, refer to the manufacturer's provided documentation for troubleshooting tips.",
+          "Inspect the external charging equipment and look for status lights, displays, or other status indicators on the equipment. Consult the equipment owner's manual for further troubleshooting instructions. Try charging the vehicle with different charging equipment or at a different charging station.",
+          "CP_a139 Charging equipment reports error Check equipment for error code or message What this alert means: Charging was interrupted because the external charging equipment has reported a fault that prevents the vehicle from charging."
+        ]
+      },
+      {
+        "query_text": "What should you do if there is an electric arc flash hazard with the charging adapter?",
+        "relevant_chunks": [
+          "CP_a143 Charging adapter has electric arc flash hazard Use different charging equipment What this alert means: Charging is unavailable because your vehicle has detected an electric arc flash hazard in the third-party charging adapter used to connect a Combined Charging System (CCS) charge handle to your vehicle’s charge port.",
+          "An electric arc flash can occur if you attempt to unplug while actively charging with the third-party charging adapter, and an electric arc flash can cause serious bodily injury and/or property damage.",
+          "Follow the steps below to mitigate this risk: • Make sure charging is completely stopped. 1. Use your vehicle touchscreen to confirm charging has stopped, or to stop charging if necessary. 2. Use the charging station display and controls to confirm charging has stopped, or to end any active charging session.",
+          "• Make sure no flashing green or blue light (LED) is visible on your vehicle’s charge port. • Unplug the charging adapter from your vehicle’s charge port. • Confirm again that the charging station indicates no active charging session.",
+          "• Unplug the charging adapter from the charge handle. Use different charging equipment to charge your vehicle. For more information on charging, see Charging Instructions on page 177."
+        ]
+      },
+      {
+        "query_text": "What should you do if the charge port detects a charge cable is still connected after unlatching?",
+        "relevant_chunks": [
+          "CP_a164 Charge handle still detected after unlatch request Use charge port manual release cable if needed What this alert means: Your vehicle's charge port detects a charge cable / charge handle is still connected after receiving multiple requests to unlatch the charge cable so it can be disconnected.",
+          "This alert may indicate the charge port latch is not releasing the charge cable as expected. What to do: If the charge cable cannot be removed from the charge port after multiple attempts to unlatch it, try the manual release cable in your vehicle’s trunk. 1. Make sure your vehicle is not actively charging. ◦ On your vehicle touchscreen, access the charging screen. ◦ If necessary, press Stop Charging.",
+          "2. Open the rear trunk. 3. Pull the charge port release cable downwards to unlatch the charge cable. ◦ NOTE: The release cable is located on the left hand side of the rear trunk. It may be recessed within a small opening of the trunk interior trim.",
+          "4. Pull the charge cable from the charge port. For more information on using the charge port manual release, see Manually Releasing Charge Cable on page 181.",
+          "If the charge cable still cannot be removed, the charge port latch may be frozen. To help thaw any ice on the charge port latch, press the Defrost Car button in your Tesla Mobile App to defrost your vehicle for approximately 30 to 45 minutes. NOTE: Be sure to use Defrost Car in your Mobile App to defrost your vehicle."
+        ]
+      },
+      {
+        "query_text": "What should you do if the front motor is disabled?",
+        "relevant_chunks": [
+          "DI_a138 Front motor disabled - OK to drive Vehicle power may be limited What this alert means: Your vehicle's front motor is unavailable. Power, speed, and acceleration may be reduced as your vehicle uses the rear motor(s) to continue driving. What to do: Continue to your destination. Your vehicle is OK to drive.",
+          "This alert may be caused by a temporary condition that will be resolved automatically. If this alert clears during your current drive, or is no longer present when you start your next drive, it was likely caused by a temporary condition. No action is required.",
+          "This alert may also indicate a condition requiring front motor inspection and service. If this alert persists throughout subsequent drives, it is recommended that you schedule service. Your vehicle is OK to drive in the meantime.",
+          "For more information, see Traffic-Aware Cruise Control on page 104.",
+          "For more information on charging, see Charging Instructions on page 177."
+        ]
+      }
+    ]
+  }
+  
