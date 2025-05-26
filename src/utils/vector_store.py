@@ -31,6 +31,17 @@
 #         chain_type_kwargs={"prompt": custom_prompt},
 #         return_source_documents=False
 #     )
+
+
+
+
+# ==========
+
+
+# 
+
+
+
 from langchain.chains import RetrievalQA
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
@@ -50,16 +61,16 @@ def create_vector_store(chunks):
     embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
     docs = [Document(page_content=chunk) for chunk in chunks]
     vector_store = FAISS.from_documents(docs, embedding_model)
-    return vector_store, docs  # returning docs for BM25/hybrid
+    return vector_store, docs  # return docs for BM25/hybrid
 
 
-def build_qa_chain(vectorstore, retrieval_type="hybrid", bm25_docs=docs):
+def build_qa_chain(vectorstore, bm25_docs=None, retrieval_type="hybrid"):
     """
-    Builds a QA chain using different retriever types:
-    - "dense": default vector similarity search
-    - "mmr": Max Marginal Relevance
+    Builds a QA chain with different retrieval strategies:
+    - "dense": vector similarity search
+    - "mmr": Max Marginal Relevance (diversity-based)
     - "bm25": keyword-based sparse retriever
-    - "hybrid": combines dense and BM25 results
+    - "hybrid": combines dense + BM25 results
     """
 
     if retrieval_type == "dense":
@@ -73,22 +84,22 @@ def build_qa_chain(vectorstore, retrieval_type="hybrid", bm25_docs=docs):
 
     elif retrieval_type == "bm25":
         if bm25_docs is None:
-            raise ValueError("BM25 retriever requires bm25_docs.")
+            raise ValueError("BM25 retriever requires `bm25_docs`.")
         retriever = BM25Retriever.from_documents(bm25_docs)
         retriever.k = 4
 
     elif retrieval_type == "hybrid":
         if bm25_docs is None:
-            raise ValueError("Hybrid retriever requires bm25_docs.")
+            raise ValueError("Hybrid retriever requires `bm25_docs`.")
         bm25 = BM25Retriever.from_documents(bm25_docs)
         bm25.k = 4
         dense = vectorstore.as_retriever(search_kwargs={"k": 4})
 
-        # Simple hybrid by combining results (no rank fusion)
         class HybridRetriever:
             def get_relevant_documents(self, query):
                 bm25_results = bm25.get_relevant_documents(query)
                 dense_results = dense.get_relevant_documents(query)
+                # Merge by page content to avoid duplicates
                 combined = {doc.page_content: doc for doc in bm25_results + dense_results}
                 return list(combined.values())
 
@@ -104,7 +115,7 @@ def build_qa_chain(vectorstore, retrieval_type="hybrid", bm25_docs=docs):
             openai_api_key=API_KEY
         ),
         retriever=retriever,
-        chain_type="stuff",  # or try "map_reduce"
+        chain_type="stuff",  # also try "map_reduce" if you have long docs
         chain_type_kwargs={"prompt": custom_prompt},
         return_source_documents=False
     )
